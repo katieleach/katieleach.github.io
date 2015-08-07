@@ -190,8 +190,10 @@ ul, ol, dl {
 }
 
 ul {
-  list-style: inside;
+  list-style: outside;
   padding-left: 20px;
+}
+
 }
 
 ol {
