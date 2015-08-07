@@ -192,6 +192,7 @@ ul, ol, dl {
 ul {
   list-style: outside;
   padding-left: 20px;
+  padding: 5px 0px; 
 }
 
 }
